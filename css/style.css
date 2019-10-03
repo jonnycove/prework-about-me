@@ -62,9 +62,13 @@ section > h1 {
 }
 
 #footer a {
-  color: #ffffff;
+  color: green;
 }
 .social > li {
   display: inline-block;
   margin: 0 5px;
+  color: green;
+}
+li {
+  color: green;
 }
